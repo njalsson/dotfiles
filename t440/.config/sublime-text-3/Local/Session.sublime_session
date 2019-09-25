@@ -1,0 +1,884 @@
+{
+	"folder_history":
+	[
+		"/home/njalsson/Documents/github/ru/semester1",
+		"/home/njalsson/Documents/github/ru/semester1/forritun1",
+		"/home/njalsson/Documents/github/ru/semester1/calendarjs",
+		"/home/njalsson/Documents/github/killme",
+		"/home/njalsson/Documents/school/forritun1"
+	],
+	"last_version": 3207,
+	"last_window_id": 7,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 794.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"rom",
+						"remove_at"
+					],
+					[
+						"index",
+						"indextoremove"
+					],
+					[
+						"insert",
+						"insert_ordered"
+					],
+					[
+						"class",
+						"classmethod"
+					],
+					[
+						"size",
+						"size-1"
+					],
+					[
+						"remove",
+						"remove_at"
+					],
+					[
+						"print",
+						"printArr"
+					],
+					[
+						"create",
+						"createElement"
+					],
+					[
+						"list",
+						"listparam"
+					],
+					[
+						"pa",
+						"parameter"
+					],
+					[
+						"correct",
+						"correct_guesses"
+					],
+					[
+						"word",
+						"WORD_LIST"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/Vintageous/Vintageous.sublime-build",
+							""
+						],
+						[
+							"Packages/Vintageous/Vintageous.sublime-build",
+							"Vintageous - Test (All)"
+						],
+						[
+							"Packages/Vintageous/Vintageous.sublime-build",
+							"Vintageous - Test (This File Only)"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/njalsson/Documents/github/ru/semester1/gagnaskipan/assignment1/ArrayList.py",
+				"/home/njalsson/Documents/github/ru/semester1/gagnaskipan/class7/queue.py",
+				"/home/njalsson/Documents/github/ru/semester1/gagnaskipan/class7/stack.py",
+				"/home/njalsson/Documents/github/ru/semester1/discrete mathimatics 1/litilskil3/assignment3.tex",
+				"/home/njalsson/Documents/github/ru/semester1/forritun1/age.py",
+				"/home/njalsson/Documents/github/ru/semester1/forritun1/div_by_17.py",
+				"/home/njalsson/Documents/github/ru/semester1/forritun1/series.py",
+				"/home/njalsson/Documents/github/ru/semester1/forritun1/stars.py",
+				"/home/njalsson/Documents/github/ru/semester1/calendarjs/src/css/main.css",
+				"/home/njalsson/Documents/github/ru/semester1/calendarjs/src/js/p5.js.part",
+				"/home/njalsson/.config/openbox/menu.xml",
+				"/home/njalsson/.config/dunst/dunstrc",
+				"/home/njalsson/Documents/school/forritun1/flyers.py",
+				"/home/njalsson/Documents/school/forritun1/grid.py",
+				"/home/njalsson/Documents/school/forritun1/basketball.py",
+				"/home/njalsson/.config/openbox/rc.xml"
+			],
+			"find":
+			{
+				"height": 30.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"pos"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"ree"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 67.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 138.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 114.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 215.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1520.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"pref",
+						"prefix_parser_recursive"
+					],
+					[
+						"pre",
+						"prefix_parser_recursive"
+					],
+					[
+						"token",
+						"tokenizer"
+					],
+					[
+						"toke",
+						"tokenizer"
+					],
+					[
+						"index",
+						"indextoremove"
+					],
+					[
+						"get_",
+						"get_at"
+					],
+					[
+						"get",
+						"get_first"
+					],
+					[
+						"remove_",
+						"remove_value"
+					],
+					[
+						"not",
+						"NotFound"
+					],
+					[
+						"remove",
+						"remove_value"
+					],
+					[
+						"arr",
+						"arr_list"
+					],
+					[
+						"exce",
+						"Exception"
+					],
+					[
+						"rom",
+						"remove_at"
+					],
+					[
+						"insert",
+						"insert_ordered"
+					],
+					[
+						"class",
+						"classmethod"
+					],
+					[
+						"size",
+						"size-1"
+					],
+					[
+						"print",
+						"printArr"
+					],
+					[
+						"create",
+						"createElement"
+					],
+					[
+						"list",
+						"listparam"
+					],
+					[
+						"pa",
+						"parameter"
+					],
+					[
+						"correct",
+						"correct_guesses"
+					],
+					[
+						"word",
+						"WORD_LIST"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/njalsson/Documents/github/ru/semester1/discrete mathimatics 1/storskil1/storskil1.tex",
+					"settings":
+					{
+						"buffer_size": 850,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/njalsson/Documents/github/ru/semester1/forritun1/quantom.py",
+					"settings":
+					{
+						"buffer_size": 210,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/njalsson/Documents/github/ru/semester1/forritun1/brot.hs",
+					"settings":
+					{
+						"buffer_size": 47,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/njalsson/Documents/github/ru/semester1/gagnaskipan/class10/doublelinkedlist.py",
+					"settings":
+					{
+						"buffer_size": 264,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/njalsson/Documents/github/ru/semester1/gagnaskipan/class8/linkedlist.py",
+					"settings":
+					{
+						"buffer_size": 817,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/Vintageous/Vintageous.sublime-build",
+							""
+						],
+						[
+							"Packages/Vintageous/Vintageous.sublime-build",
+							"Vintageous - Test (All)"
+						],
+						[
+							"Packages/Vintageous/Vintageous.sublime-build",
+							"Vintageous - Test (This File Only)"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/njalsson/Documents/github/ru/semester1",
+				"/home/njalsson/Documents/github/ru/semester1/gagnaskipan",
+				"/home/njalsson/Documents/github/ru/semester1/gagnaskipan/class10",
+				"/home/njalsson/Documents/github/ru/semester1/gagnaskipan/class8"
+			],
+			"file_history":
+			[
+				"/home/njalsson/Documents/github/ru/semester1/gagnaskipan/class8/linkedlist.py",
+				"/home/njalsson/Documents/github/ru/semester1/gagnaskipan/class8/quizlinkedlist.py",
+				"/home/njalsson/Documents/github/ru/semester1/discrete mathimatics 1/storskil1/storskil1.tex",
+				"/home/njalsson/Documents/github/ru/semester1/fractals/1.py",
+				"/home/njalsson/Documents/github/ru/semester1/gagnaskipan/assignment1/main_test.py",
+				"/home/njalsson/Documents/github/ru/semester1/gagnaskipan/assignment1/array_list.py",
+				"/home/njalsson/Documents/github/ru/semester1/gagnaskipan/assignment1/submission/array_list.py",
+				"/home/njalsson/Documents/github/ru/semester1/gagnaskipan/assignment1/prefix/main_program.py",
+				"/home/njalsson/Documents/github/ru/semester1/gagnaskipan/assignment1/expected_output.txt",
+				"/home/njalsson/Documents/github/ru/semester1/gagnaskipan/assignment1/inserttest.py",
+				"/home/njalsson/Documents/github/ru/semester1/gagnaskipan/assignment1/selectionsort.py",
+				"/home/njalsson/Documents/github/ru/semester1/gagnaskipan/assignment1/ArrayList.py",
+				"/home/njalsson/Documents/github/ru/semester1/gagnaskipan/class7/queue.py",
+				"/home/njalsson/Documents/github/ru/semester1/gagnaskipan/class7/stack.py",
+				"/home/njalsson/Documents/github/ru/semester1/discrete mathimatics 1/litilskil3/assignment3.tex",
+				"/home/njalsson/Documents/github/ru/semester1/forritun1/age.py",
+				"/home/njalsson/Documents/github/ru/semester1/forritun1/div_by_17.py",
+				"/home/njalsson/Documents/github/ru/semester1/forritun1/series.py",
+				"/home/njalsson/Documents/github/ru/semester1/forritun1/stars.py",
+				"/home/njalsson/Documents/github/ru/semester1/calendarjs/src/css/main.css",
+				"/home/njalsson/Documents/github/ru/semester1/calendarjs/src/js/p5.js.part",
+				"/home/njalsson/.config/openbox/menu.xml",
+				"/home/njalsson/.config/dunst/dunstrc",
+				"/home/njalsson/Documents/school/forritun1/flyers.py",
+				"/home/njalsson/Documents/school/forritun1/grid.py",
+				"/home/njalsson/Documents/school/forritun1/basketball.py",
+				"/home/njalsson/.config/openbox/rc.xml"
+			],
+			"find":
+			{
+				"height": 28.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"pos"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"ree"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/njalsson/Documents/github/ru/semester1"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 3,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/njalsson/Documents/github/ru/semester1/discrete mathimatics 1/storskil1/storskil1.tex",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 850,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										832,
+										832
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/LaTeX/LaTeX.sublime-syntax",
+									"vintage":
+									{
+										"_vintageous_glue_until_normal_mode": false,
+										"action": null,
+										"action_count": "",
+										"mode": "mode_normal",
+										"motion": null,
+										"motion_count": "",
+										"must_capture_register_name": false,
+										"normal_insert_count": "1",
+										"partial_sequence": "",
+										"register": "\"",
+										"sequence": "",
+										"xpos": 1
+									}
+								},
+								"translation.x": 0.0,
+								"translation.y": 211.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/njalsson/Documents/github/ru/semester1/forritun1/quantom.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 210,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										188,
+										188
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"vintage":
+									{
+										"_vintageous_glue_until_normal_mode": false,
+										"action": null,
+										"action_count": "",
+										"mode": "mode_normal",
+										"motion": null,
+										"motion_count": "",
+										"must_capture_register_name": false,
+										"normal_insert_count": "1",
+										"partial_sequence": "",
+										"register": "\"",
+										"sequence": "",
+										"xpos": 21
+									}
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/njalsson/Documents/github/ru/semester1/forritun1/brot.hs",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 47,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										45,
+										45
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Haskell/Haskell.sublime-syntax",
+									"vintage":
+									{
+										"_vintageous_glue_until_normal_mode": true,
+										"action": null,
+										"action_count": "",
+										"mode": "mode_insert",
+										"motion": null,
+										"motion_count": "",
+										"must_capture_register_name": false,
+										"normal_insert_count": "1",
+										"partial_sequence": "",
+										"register": "\"",
+										"sequence": "",
+										"xpos": 0
+									}
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/njalsson/Documents/github/ru/semester1/gagnaskipan/class10/doublelinkedlist.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 264,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										134,
+										134
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"vintage":
+									{
+										"_vintageous_glue_until_normal_mode": false,
+										"action": null,
+										"action_count": "",
+										"mode": "mode_normal",
+										"motion": null,
+										"motion_count": "",
+										"must_capture_register_name": false,
+										"normal_insert_count": "1",
+										"partial_sequence": "",
+										"register": "\"",
+										"sequence": "",
+										"xpos": 0
+									}
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/njalsson/Documents/github/ru/semester1/gagnaskipan/class8/linkedlist.py",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 817,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"translate_tabs_to_spaces": false,
+									"vintage":
+									{
+										"action": null,
+										"action_count": "",
+										"mode": "mode_normal",
+										"motion": null,
+										"motion_count": "",
+										"must_capture_register_name": false,
+										"partial_sequence": "",
+										"register": "\"",
+										"sequence": "",
+										"xpos": 0
+									}
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 71.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 138.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,40,54,1560,848,1600,900",
+			"project": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+				"_vintageous_reset_during_init": true,
+				"vintage":
+				{
+					"_cmdline_cd": "/home/njalsson/Documents/github/ru/semester1/gagnaskipan/class8"
+				}
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 248.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 6,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

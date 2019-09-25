@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Andrew",
+		"gruvbox",
+		"LaTeX Snippets",
+		"Materialize",
+		"Package Control",
+		"Python 3",
+		"Python Debugger",
+		"Vintageous"
+	]
+}

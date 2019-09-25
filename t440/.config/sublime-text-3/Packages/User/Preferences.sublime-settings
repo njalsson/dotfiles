@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/Materialize/schemes/Material Dracula.tmTheme",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage",
+		"Vintageous"
+	],
+	"theme": "Material Dracula.sublime-theme"
+}

@@ -1,0 +1,5 @@
+[Added Associations]
+application/zip=org.gnome.Nautilus.desktop;Thunar.desktop;
+application/x-tar=org.gnome.Nautilus.desktop;
+image/jpeg=firefox-esr.desktop;
+application/pdf=org.pwmt.zathura-pdf-poppler.desktop;
