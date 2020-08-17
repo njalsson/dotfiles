@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"Coffee Color Scheme",
+		"Elm Syntax Highlighting",
+		"Floobits",
+		"Materialize",
+		"Package Control",
+		"Python 3",
+		"Whitespace"
+	]
+}

@@ -1,0 +1,1374 @@
+{
+	"folder_history":
+	[
+		"/home/njalsson/github/FK2020",
+		"/home/njalsson/github/ru/semester2",
+		"/home/njalsson/github/ru/semester2/styrikerfi",
+		"/home/njalsson/Documents/webdev/elm",
+		"/home/njalsson/Documents/webdev/moon/my_app",
+		"/home/njalsson/Documents/forritun/svelte",
+		"/home/njalsson/Documents/forritun/ruby",
+		"/home/njalsson/Documents/vln1/src",
+		"/home/njalsson/Documents/keppnisforritun",
+		"/home/njalsson/floobits/njalsson/gendertrees",
+		"/home/njalsson/github/ru/semester1/gagnaskipan",
+		"/home/njalsson/Documents/vln1",
+		"/home/njalsson/Documents/dstruct final",
+		"/home/njalsson/Documents/finalexamdatastructures",
+		"/home/njalsson/github/ru/semester1/gagnaskipan/assignment5",
+		"/home/njalsson/github/ru/semester1",
+		"/home/njalsson/Documents/github/ru/semester1"
+	],
+	"last_version": 3211,
+	"last_window_id": 27,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 956.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"peo",
+						"PeopleID"
+					],
+					[
+						"comp",
+						"CompetitionID"
+					],
+					[
+						"Peo",
+						"PeopleID"
+					],
+					[
+						"re",
+						"result"
+					],
+					[
+						"Spo",
+						"sportID"
+					],
+					[
+						"peop",
+						"people"
+					],
+					[
+						"Res",
+						"results"
+					],
+					[
+						"id",
+						"ID"
+					],
+					[
+						"P",
+						"People"
+					],
+					[
+						"sport",
+						"sportID"
+					],
+					[
+						"people",
+						"peopleID"
+					],
+					[
+						"coffee",
+						"coffeehouses"
+					],
+					[
+						"co",
+						"coffees"
+					],
+					[
+						"coff",
+						"coffeehouses"
+					],
+					[
+						"dri",
+						"drinkers"
+					],
+					[
+						"cof",
+						"coffee"
+					],
+					[
+						"coffe",
+						"coffeehousename"
+					],
+					[
+						"se",
+						"sells"
+					],
+					[
+						"dr",
+						"drinkername"
+					],
+					[
+						"smal",
+						"smallestindex\tint ⟠"
+					],
+					[
+						"Dest",
+						"Destination"
+					],
+					[
+						"Desti",
+						"Destinations"
+					],
+					[
+						"try",
+						"try\tTry/Except"
+					],
+					[
+						"map",
+						"map(<function>, <sequence>)\tcall ⟠"
+					],
+					[
+						"for",
+						"forensure_ascii\tbool ⟠"
+					],
+					[
+						"m",
+						"Menu"
+					],
+					[
+						"Crew",
+						"crewModel"
+					],
+					[
+						"plane",
+						"planeTypeId"
+					],
+					[
+						"dest",
+						"destination"
+					],
+					[
+						"distan",
+						"distanceFromIceland"
+					],
+					[
+						"updateCre",
+						"updateCrewMenuSSN"
+					],
+					[
+						"update",
+						"updateCrewMenu"
+					],
+					[
+						"des",
+						"destination"
+					],
+					[
+						"dis",
+						"destinations"
+					],
+					[
+						"register",
+						"registerCrewMember"
+					],
+					[
+						"reg",
+						"registerDestination"
+					],
+					[
+						"V",
+						"Voyage"
+					],
+					[
+						"depa",
+						"departureFromDestination"
+					],
+					[
+						"depart",
+						"departureFromIceland"
+					],
+					[
+						"Voya",
+						"VoyageNode"
+					],
+					[
+						"DEPARTU",
+						"departureFromDestination"
+					],
+					[
+						"pri",
+						"printOutAndTakeInput"
+					],
+					[
+						"ret",
+						"retrieveCrew"
+					],
+					[
+						"cont",
+						"contactNumber"
+					],
+					[
+						"list",
+						"listofcars"
+					],
+					[
+						"str",
+						"string1"
+					],
+					[
+						"li",
+						"listofmanufacturers"
+					],
+					[
+						"hea",
+						"head1"
+					],
+					[
+						"is",
+						"is_divisible"
+					],
+					[
+						"divis",
+						"divisible_recursion"
+					],
+					[
+						"print",
+						"print_odd"
+					],
+					[
+						"self",
+						"selfvalue"
+					],
+					[
+						"other",
+						"othervalue"
+					],
+					[
+						"cd",
+						"childnode"
+					],
+					[
+						"cu",
+						"currentnode"
+					],
+					[
+						"hash",
+						"hashablecounter"
+					],
+					[
+						"hs",
+						"hashablecounter"
+					],
+					[
+						"current",
+						"currentbucket"
+					],
+					[
+						"curr",
+						"currentnode"
+					],
+					[
+						"data",
+						"DataList"
+					],
+					[
+						"smol",
+						"smol"
+					],
+					[
+						"team",
+						"team1"
+					],
+					[
+						"l",
+						"listo"
+					],
+					[
+						"L",
+						"listo"
+					],
+					[
+						"remo",
+						"remove_all"
+					],
+					[
+						"x",
+						"x_type"
+					],
+					[
+						"add",
+						"add_to_back"
+					],
+					[
+						"Data",
+						"DataList"
+					],
+					[
+						"count",
+						"count_value"
+					],
+					[
+						"string",
+						"stringout"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"theme",
+						"UI: Select Theme"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"elm",
+						"Set Syntax: Elm"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"spaces",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"tabs",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"remove",
+						"Whitespace: Remove Trailing Whitespace"
+					],
+					[
+						"floobits",
+						"Floobits - Join Workspace"
+					],
+					[
+						"coffee",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"enable",
+						"Package Control: Enable Package"
+					],
+					[
+						"intall",
+						"Package Control: Install Package"
+					],
+					[
+						"spac",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"isntall",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/njalsson/github/ru/semester2/gagnasafnsfraedi/daematimaverk/5/answers.sql",
+				"/home/njalsson/github/ru/semester2/styrikerfi/programming assignment 1/__name__.py",
+				"/home/njalsson/github/ru/semester2/styrikerfi/programming assignment 1/create.sql",
+				"/home/njalsson/github/ru/semester2/styrikerfi/programming assignment 1/fill.sql",
+				"/home/njalsson/github/ru/semester2/gagnasafnsfraedi/hopverk/hopverkefni2/fill.sql",
+				"/home/njalsson/github/ru/semester2/gagnasafnsfraedi/hopverk/hopverkefni2/create.sql",
+				"/home/njalsson/github/ru/semester2/styrikerfi/hw4/4.txt",
+				"/home/njalsson/github/ru/semester2/gagnasafnsfraedi/hopverk/hopverkefni2/query.sql",
+				"/home/njalsson/github/ru/semester2/gagnasafnsfraedi/hopverk/hopverkefni2/drop.sql",
+				"/home/njalsson/github/ru/semester2/gagnasafnsfraedi/daematimaverk/3/my_amazing_database.sql",
+				"/home/njalsson/index.html",
+				"/home/njalsson/github/ru/semester2/styrikerfi/hw1/answers.txt",
+				"/home/njalsson/Downloads/World of Warcraft 3.3.5a (no install)/Data/enUS/realmlist.wtf",
+				"/home/njalsson/Documents/keppnisforritun/luhnchecksum.py",
+				"/home/njalsson/Documents/keppnisforritun/lostlineup.py",
+				"/home/njalsson/Documents/webdev/elm/helloworld/src/HomePage.elm",
+				"/home/njalsson/Documents/webdev/elm/helloworld/src/Http/Helpers.elm",
+				"/home/njalsson/Documents/webdev/elm/helloworld/src/Main.elm",
+				"/home/njalsson/Documents/webdev/elm/helloworld/src/index.elm",
+				"/home/njalsson/Documents/webdev/elm/helloworld.elm",
+				"/home/njalsson/Documents/forritun/ruby/helloworld.rb",
+				"/home/njalsson/Documents/vln1/src/csv/Voyage.csv",
+				"/home/njalsson/Documents/vln1/src/csv/Destinations.csv",
+				"/home/njalsson/Documents/vln1/src/csv/Crew.csv",
+				"/home/njalsson/Documents/vln1/src/csv/PastVoyages.csv",
+				"/home/njalsson/Documents/vln1/src/UILayer/menuclasstest.py",
+				"/home/njalsson/Documents/vln1/src/LogicLayer/LogicLayerAPI.py",
+				"/home/njalsson/Documents/vln1/src/LogicLayer/retrieveClass.py",
+				"/home/njalsson/Documents/vln1/src/models/voyageModel.py",
+				"/home/njalsson/Documents/vln1/src/UILayer/outputclass.py",
+				"/home/njalsson/Documents/vln1/src/csv/Aircraft.csv",
+				"/home/njalsson/Documents/vln1/src/DataLayer/WriteCSV.py",
+				"/home/njalsson/Documents/vln1/src/LogicLayer/errorHandlingClass.py",
+				"/home/njalsson/Documents/vln1/src/LogicLayer/createClass.py",
+				"/home/njalsson/Documents/vln1/src/UILayer/inputclass.py",
+				"/home/njalsson/Documents/vln1/src/UILayer/menuclass.py",
+				"/home/njalsson/Documents/vln1/src/LogicLayer/isoFormatClass.py",
+				"/home/njalsson/Documents/vln1/src/DataLayer/ReadCSV.py",
+				"/home/njalsson/Documents/vln1/src/LogicLayer/logic_test.py",
+				"/home/njalsson/Documents/vln1/src/DataLayer/test.py",
+				"/home/njalsson/Documents/vln1/src/main.py",
+				"/home/njalsson/Documents/vln1/src/UILayer/userinterface.py",
+				"/home/njalsson/Documents/vln1/src/DataLayer/DataLayer.py",
+				"/home/njalsson/Documents/vln1/src/models/destinationModel.py",
+				"/home/njalsson/Documents/vln1/src/DataLayer/classes.py",
+				"/home/njalsson/Documents/vln1/src/UILayer/interface.py",
+				"/home/njalsson/Documents/vln1/design/wireframe.txt",
+				"/home/njalsson/Documents/save.txt",
+				"/home/njalsson/Documents/vln1/src/data/classes.py",
+				"/home/njalsson/Documents/vln1/src/data/menuSystem.py",
+				"/home/njalsson/Documents/vln1/src/logic/mainlogic.py",
+				"/home/njalsson/Documents/vln1/src/logic/interface.py",
+				"/home/njalsson/Documents/vln1/src/data/test.py",
+				"/home/njalsson/Documents/vln1/src/data/csv/Destinations.csv",
+				"/home/njalsson/Documents/vln1/wireframe.txt",
+				"/home/njalsson/Documents/dstruct final/P3/cardb_tester_program.py",
+				"/home/njalsson/Documents/dstruct final/P3/cardb_student_program.py",
+				"/home/njalsson/.config/tint2/tint2rc",
+				"/home/njalsson/Documents/dstruct final/P4/directories_tester_program.py",
+				"/home/njalsson/Documents/dstruct final/P2/recursion_student_program.py",
+				"/home/njalsson/Documents/dstruct final/P1/array_student_program.py",
+				"/home/njalsson/Documents/dstruct final/P4/directories_student_program.py",
+				"/home/njalsson/Documents/dstruct final/P4/quizthinkingoutloud",
+				"/home/njalsson/Documents/dstruct final/P2/test.py",
+				"/home/njalsson/Documents/finalexamdatastructures/P6/double_key.py",
+				"/home/njalsson/Documents/finalexamdatastructures/P4/test.py",
+				"/home/njalsson/Documents/finalexamdatastructures/P2/list_recursion.py",
+				"/home/njalsson/Documents/finalexamdatastructures/P2/odd_recursion.py",
+				"/home/njalsson/Documents/finalexamdatastructures/P1/array_set.py",
+				"/home/njalsson/Documents/finalexamdatastructures/P3/dll_list.py",
+				"/home/njalsson/Documents/finalexamdatastructures/P4/hash_map.py",
+				"/home/njalsson/floobits/njalsson/gendertrees/main.py",
+				"/home/njalsson/github/ru/semester1/webdev/coffeescript/functions.js",
+				"/home/njalsson/github/ru/semester1/webdev/coffeescript/functions.coffee",
+				"/home/njalsson/.config/sublime-text-3/Packages/Better CoffeeScript/CoffeeScript.sublime-settings",
+				"/home/njalsson/github/ru/semester1/gagnaskipan/assignment4/hash_map_test.py",
+				"/home/njalsson/github/ru/semester1/gagnaskipan/assignment4/hash_key_tests.py",
+				"/home/njalsson/github/ru/semester1/gagnaskipan/assignment4/bucket.py",
+				"/home/njalsson/Documents/keppnisforritun/icpc/i.py",
+				"/home/njalsson/Documents/keppnisforritun/icpc/h.py",
+				"/home/njalsson/Documents/keppnisforritun/icpc/e.py",
+				"/home/njalsson/Documents/keppnisforritun/icpc/a.py",
+				"/home/njalsson/Documents/keppnisforritun/icpc/g.py",
+				"/home/njalsson/Documents/keppnisforritun/icpc/hw3.c",
+				"/home/njalsson/github/ru/semester1/gagnaskipan/partial exam 2/Hlutaprof2Base/solutions.py",
+				"/home/njalsson/github/ru/semester1/gagnaskipan/partial exam 2/Hlutaprof2Base/test.cpp",
+				"/home/njalsson/Documents/keppnisforritun/icpc/b.py",
+				"/home/njalsson/Documents/keppnisforritun/icpc/g.cpp",
+				"/home/njalsson/Documents/keppnisforritun/1a.cpp",
+				"/home/njalsson/Documents/keppnisforritun/1a.py",
+				"/home/njalsson/github/ru/semester1/tolvuhogun/logicalshift.cpp",
+				"/home/njalsson/github/ru/semester1/tolvuhogun/alloddbits.c",
+				"/home/njalsson/github/ru/semester1/gagnaskipan/assignment1/array_list.py",
+				"/home/njalsson/github/ru/semester1/gagnaskipan/assignment3/dll.py",
+				"/home/njalsson/github/ru/semester1/tolvuhogun/divpwr.cpp",
+				"/home/njalsson/github/ru/semester1/tolvuhogun/bitshift.cpp",
+				"/home/njalsson/github/ru/semester1/tolvuhogun/ascii.cpp",
+				"/home/njalsson/github/ru/semester1/tolvuhogun/a.out",
+				"/home/njalsson/github/ru/semester1/gagnaskipan/class8/quizlinkedlist.py",
+				"/home/njalsson/github/ru/semester1/gagnaskipan/class10/doublelinkedlist.py",
+				"/home/njalsson/github/ru/semester1/tolvuhogun/subok.cpp",
+				"/home/njalsson/github/ru/semester1/tolvuhogun/tmax.cpp",
+				"/home/njalsson/github/ru/semester1/tolvuhogun/bang.cpp",
+				"/home/njalsson/Documents/github/ru/semester1/tolvuhogun/logicalshift.py",
+				"/home/njalsson/Documents/github/ru/semester1/tolvuhogun/bitshift.cpp",
+				"/home/njalsson/Documents/github/ru/semester1/tolvuhogun/tmax.cpp",
+				"/home/njalsson/Documents/github/ru/semester1/gagnaskipan/assignment2/PalindromeBase/palindrome.py",
+				"/home/njalsson/Documents/github/ru/semester1/gagnaskipan/partial exam 2/Hlutaprof2Base/solutions.py",
+				"/home/njalsson/Documents/github/ru/semester1/gagnaskipan/assignment1/prefix/main_program.py"
+			],
+			"find":
+			{
+				"height": 48.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 48.0
+			},
+			"input":
+			{
+				"height": 86.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 207.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/Java/JavaC.sublime-build",
+			"replace":
+			{
+				"height": 142.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 244.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1806.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"peo",
+						"PeopleID"
+					],
+					[
+						"comp",
+						"CompetitionID"
+					],
+					[
+						"Peo",
+						"PeopleID"
+					],
+					[
+						"re",
+						"result"
+					],
+					[
+						"Spo",
+						"sportID"
+					],
+					[
+						"peop",
+						"people"
+					],
+					[
+						"Res",
+						"results"
+					],
+					[
+						"id",
+						"ID"
+					],
+					[
+						"P",
+						"People"
+					],
+					[
+						"sport",
+						"sportID"
+					],
+					[
+						"people",
+						"peopleID"
+					],
+					[
+						"coffee",
+						"coffeehouses"
+					],
+					[
+						"co",
+						"coffees"
+					],
+					[
+						"coff",
+						"coffeehouses"
+					],
+					[
+						"dri",
+						"drinkers"
+					],
+					[
+						"cof",
+						"coffee"
+					],
+					[
+						"coffe",
+						"coffeehousename"
+					],
+					[
+						"se",
+						"sells"
+					],
+					[
+						"dr",
+						"drinkername"
+					],
+					[
+						"smal",
+						"smallestindex\tint ⟠"
+					],
+					[
+						"Dest",
+						"Destination"
+					],
+					[
+						"Desti",
+						"Destinations"
+					],
+					[
+						"try",
+						"try\tTry/Except"
+					],
+					[
+						"map",
+						"map(<function>, <sequence>)\tcall ⟠"
+					],
+					[
+						"for",
+						"forensure_ascii\tbool ⟠"
+					],
+					[
+						"m",
+						"Menu"
+					],
+					[
+						"Crew",
+						"crewModel"
+					],
+					[
+						"plane",
+						"planeTypeId"
+					],
+					[
+						"dest",
+						"destination"
+					],
+					[
+						"distan",
+						"distanceFromIceland"
+					],
+					[
+						"updateCre",
+						"updateCrewMenuSSN"
+					],
+					[
+						"update",
+						"updateCrewMenu"
+					],
+					[
+						"des",
+						"destination"
+					],
+					[
+						"dis",
+						"destinations"
+					],
+					[
+						"register",
+						"registerCrewMember"
+					],
+					[
+						"reg",
+						"registerDestination"
+					],
+					[
+						"V",
+						"Voyage"
+					],
+					[
+						"depa",
+						"departureFromDestination"
+					],
+					[
+						"depart",
+						"departureFromIceland"
+					],
+					[
+						"Voya",
+						"VoyageNode"
+					],
+					[
+						"DEPARTU",
+						"departureFromDestination"
+					],
+					[
+						"pri",
+						"printOutAndTakeInput"
+					],
+					[
+						"ret",
+						"retrieveCrew"
+					],
+					[
+						"cont",
+						"contactNumber"
+					],
+					[
+						"list",
+						"listofcars"
+					],
+					[
+						"str",
+						"string1"
+					],
+					[
+						"li",
+						"listofmanufacturers"
+					],
+					[
+						"hea",
+						"head1"
+					],
+					[
+						"is",
+						"is_divisible"
+					],
+					[
+						"divis",
+						"divisible_recursion"
+					],
+					[
+						"print",
+						"print_odd"
+					],
+					[
+						"self",
+						"selfvalue"
+					],
+					[
+						"other",
+						"othervalue"
+					],
+					[
+						"cd",
+						"childnode"
+					],
+					[
+						"cu",
+						"currentnode"
+					],
+					[
+						"hash",
+						"hashablecounter"
+					],
+					[
+						"hs",
+						"hashablecounter"
+					],
+					[
+						"current",
+						"currentbucket"
+					],
+					[
+						"curr",
+						"currentnode"
+					],
+					[
+						"data",
+						"DataList"
+					],
+					[
+						"smol",
+						"smol"
+					],
+					[
+						"team",
+						"team1"
+					],
+					[
+						"l",
+						"listo"
+					],
+					[
+						"L",
+						"listo"
+					],
+					[
+						"remo",
+						"remove_all"
+					],
+					[
+						"x",
+						"x_type"
+					],
+					[
+						"add",
+						"add_to_back"
+					],
+					[
+						"Data",
+						"DataList"
+					],
+					[
+						"count",
+						"count_value"
+					],
+					[
+						"string",
+						"stringout"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/njalsson/Downloads/accounts_create_and_fill.sql",
+					"settings":
+					{
+						"buffer_size": 6274,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "",
+					"file": "-",
+					"file_size": -1,
+					"file_write_time": -1,
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"theme",
+						"UI: Select Theme"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"elm",
+						"Set Syntax: Elm"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"spaces",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"tabs",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"remove",
+						"Whitespace: Remove Trailing Whitespace"
+					],
+					[
+						"floobits",
+						"Floobits - Join Workspace"
+					],
+					[
+						"coffee",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"enable",
+						"Package Control: Enable Package"
+					],
+					[
+						"intall",
+						"Package Control: Install Package"
+					],
+					[
+						"spac",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"isntall",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/njalsson/github/FK2020"
+			],
+			"file_history":
+			[
+				"/home/njalsson/github/FK2020/problems/bergur/input_format_validators/validator.py",
+				"/home/njalsson/github/ru/semester2/gagnasafnsfraedi/daematimaverk/5/answers.sql",
+				"/home/njalsson/github/ru/semester2/styrikerfi/programming assignment 1/__name__.py",
+				"/home/njalsson/github/ru/semester2/styrikerfi/programming assignment 1/create.sql",
+				"/home/njalsson/github/ru/semester2/styrikerfi/programming assignment 1/fill.sql",
+				"/home/njalsson/github/ru/semester2/gagnasafnsfraedi/hopverk/hopverkefni2/fill.sql",
+				"/home/njalsson/github/ru/semester2/gagnasafnsfraedi/hopverk/hopverkefni2/create.sql",
+				"/home/njalsson/github/ru/semester2/styrikerfi/hw4/4.txt",
+				"/home/njalsson/github/ru/semester2/gagnasafnsfraedi/hopverk/hopverkefni2/query.sql",
+				"/home/njalsson/github/ru/semester2/gagnasafnsfraedi/hopverk/hopverkefni2/drop.sql",
+				"/home/njalsson/github/ru/semester2/gagnasafnsfraedi/daematimaverk/3/my_amazing_database.sql",
+				"/home/njalsson/index.html",
+				"/home/njalsson/github/ru/semester2/styrikerfi/hw1/answers.txt",
+				"/home/njalsson/Downloads/World of Warcraft 3.3.5a (no install)/Data/enUS/realmlist.wtf",
+				"/home/njalsson/Documents/keppnisforritun/luhnchecksum.py",
+				"/home/njalsson/Documents/keppnisforritun/lostlineup.py",
+				"/home/njalsson/Documents/webdev/elm/helloworld/src/HomePage.elm",
+				"/home/njalsson/Documents/webdev/elm/helloworld/src/Http/Helpers.elm",
+				"/home/njalsson/Documents/webdev/elm/helloworld/src/Main.elm",
+				"/home/njalsson/Documents/webdev/elm/helloworld/src/index.elm",
+				"/home/njalsson/Documents/webdev/elm/helloworld.elm",
+				"/home/njalsson/Documents/forritun/ruby/helloworld.rb",
+				"/home/njalsson/Documents/vln1/src/csv/Voyage.csv",
+				"/home/njalsson/Documents/vln1/src/csv/Destinations.csv",
+				"/home/njalsson/Documents/vln1/src/csv/Crew.csv",
+				"/home/njalsson/Documents/vln1/src/csv/PastVoyages.csv",
+				"/home/njalsson/Documents/vln1/src/UILayer/menuclasstest.py",
+				"/home/njalsson/Documents/vln1/src/LogicLayer/LogicLayerAPI.py",
+				"/home/njalsson/Documents/vln1/src/LogicLayer/retrieveClass.py",
+				"/home/njalsson/Documents/vln1/src/models/voyageModel.py",
+				"/home/njalsson/Documents/vln1/src/UILayer/outputclass.py",
+				"/home/njalsson/Documents/vln1/src/csv/Aircraft.csv",
+				"/home/njalsson/Documents/vln1/src/DataLayer/WriteCSV.py",
+				"/home/njalsson/Documents/vln1/src/LogicLayer/errorHandlingClass.py",
+				"/home/njalsson/Documents/vln1/src/LogicLayer/createClass.py",
+				"/home/njalsson/Documents/vln1/src/UILayer/inputclass.py",
+				"/home/njalsson/Documents/vln1/src/UILayer/menuclass.py",
+				"/home/njalsson/Documents/vln1/src/LogicLayer/isoFormatClass.py",
+				"/home/njalsson/Documents/vln1/src/DataLayer/ReadCSV.py",
+				"/home/njalsson/Documents/vln1/src/LogicLayer/logic_test.py",
+				"/home/njalsson/Documents/vln1/src/DataLayer/test.py",
+				"/home/njalsson/Documents/vln1/src/main.py",
+				"/home/njalsson/Documents/vln1/src/UILayer/userinterface.py",
+				"/home/njalsson/Documents/vln1/src/DataLayer/DataLayer.py",
+				"/home/njalsson/Documents/vln1/src/models/destinationModel.py",
+				"/home/njalsson/Documents/vln1/src/DataLayer/classes.py",
+				"/home/njalsson/Documents/vln1/src/UILayer/interface.py",
+				"/home/njalsson/Documents/vln1/design/wireframe.txt",
+				"/home/njalsson/Documents/save.txt",
+				"/home/njalsson/Documents/vln1/src/data/classes.py",
+				"/home/njalsson/Documents/vln1/src/data/menuSystem.py",
+				"/home/njalsson/Documents/vln1/src/logic/mainlogic.py",
+				"/home/njalsson/Documents/vln1/src/logic/interface.py",
+				"/home/njalsson/Documents/vln1/src/data/test.py",
+				"/home/njalsson/Documents/vln1/src/data/csv/Destinations.csv",
+				"/home/njalsson/Documents/vln1/wireframe.txt",
+				"/home/njalsson/Documents/dstruct final/P3/cardb_tester_program.py",
+				"/home/njalsson/Documents/dstruct final/P3/cardb_student_program.py",
+				"/home/njalsson/.config/tint2/tint2rc",
+				"/home/njalsson/Documents/dstruct final/P4/directories_tester_program.py",
+				"/home/njalsson/Documents/dstruct final/P2/recursion_student_program.py",
+				"/home/njalsson/Documents/dstruct final/P1/array_student_program.py",
+				"/home/njalsson/Documents/dstruct final/P4/directories_student_program.py",
+				"/home/njalsson/Documents/dstruct final/P4/quizthinkingoutloud",
+				"/home/njalsson/Documents/dstruct final/P2/test.py",
+				"/home/njalsson/Documents/finalexamdatastructures/P6/double_key.py",
+				"/home/njalsson/Documents/finalexamdatastructures/P4/test.py",
+				"/home/njalsson/Documents/finalexamdatastructures/P2/list_recursion.py",
+				"/home/njalsson/Documents/finalexamdatastructures/P2/odd_recursion.py",
+				"/home/njalsson/Documents/finalexamdatastructures/P1/array_set.py",
+				"/home/njalsson/Documents/finalexamdatastructures/P3/dll_list.py",
+				"/home/njalsson/Documents/finalexamdatastructures/P4/hash_map.py",
+				"/home/njalsson/floobits/njalsson/gendertrees/main.py",
+				"/home/njalsson/github/ru/semester1/webdev/coffeescript/functions.js",
+				"/home/njalsson/github/ru/semester1/webdev/coffeescript/functions.coffee",
+				"/home/njalsson/.config/sublime-text-3/Packages/Better CoffeeScript/CoffeeScript.sublime-settings",
+				"/home/njalsson/github/ru/semester1/gagnaskipan/assignment4/hash_map_test.py",
+				"/home/njalsson/github/ru/semester1/gagnaskipan/assignment4/hash_key_tests.py",
+				"/home/njalsson/github/ru/semester1/gagnaskipan/assignment4/bucket.py",
+				"/home/njalsson/Documents/keppnisforritun/icpc/i.py",
+				"/home/njalsson/Documents/keppnisforritun/icpc/h.py",
+				"/home/njalsson/Documents/keppnisforritun/icpc/e.py",
+				"/home/njalsson/Documents/keppnisforritun/icpc/a.py",
+				"/home/njalsson/Documents/keppnisforritun/icpc/g.py",
+				"/home/njalsson/Documents/keppnisforritun/icpc/hw3.c",
+				"/home/njalsson/github/ru/semester1/gagnaskipan/partial exam 2/Hlutaprof2Base/solutions.py",
+				"/home/njalsson/github/ru/semester1/gagnaskipan/partial exam 2/Hlutaprof2Base/test.cpp",
+				"/home/njalsson/Documents/keppnisforritun/icpc/b.py",
+				"/home/njalsson/Documents/keppnisforritun/icpc/g.cpp",
+				"/home/njalsson/Documents/keppnisforritun/1a.cpp",
+				"/home/njalsson/Documents/keppnisforritun/1a.py",
+				"/home/njalsson/github/ru/semester1/tolvuhogun/logicalshift.cpp",
+				"/home/njalsson/github/ru/semester1/tolvuhogun/alloddbits.c",
+				"/home/njalsson/github/ru/semester1/gagnaskipan/assignment1/array_list.py",
+				"/home/njalsson/github/ru/semester1/gagnaskipan/assignment3/dll.py",
+				"/home/njalsson/github/ru/semester1/tolvuhogun/divpwr.cpp",
+				"/home/njalsson/github/ru/semester1/tolvuhogun/bitshift.cpp",
+				"/home/njalsson/github/ru/semester1/tolvuhogun/ascii.cpp",
+				"/home/njalsson/github/ru/semester1/tolvuhogun/a.out",
+				"/home/njalsson/github/ru/semester1/gagnaskipan/class8/quizlinkedlist.py",
+				"/home/njalsson/github/ru/semester1/gagnaskipan/class10/doublelinkedlist.py",
+				"/home/njalsson/github/ru/semester1/tolvuhogun/subok.cpp",
+				"/home/njalsson/github/ru/semester1/tolvuhogun/tmax.cpp",
+				"/home/njalsson/github/ru/semester1/tolvuhogun/bang.cpp",
+				"/home/njalsson/Documents/github/ru/semester1/tolvuhogun/logicalshift.py",
+				"/home/njalsson/Documents/github/ru/semester1/tolvuhogun/bitshift.cpp",
+				"/home/njalsson/Documents/github/ru/semester1/tolvuhogun/tmax.cpp",
+				"/home/njalsson/Documents/github/ru/semester1/gagnaskipan/assignment2/PalindromeBase/palindrome.py",
+				"/home/njalsson/Documents/github/ru/semester1/gagnaskipan/partial exam 2/Hlutaprof2Base/solutions.py",
+				"/home/njalsson/Documents/github/ru/semester1/gagnaskipan/assignment1/prefix/main_program.py"
+			],
+			"find":
+			{
+				"height": 48.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"),\n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/njalsson/github/FK2020"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/njalsson/Downloads/accounts_create_and_fill.sql",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6274,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										76,
+										76
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/SQL/SQL.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "-",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 48.0
+			},
+			"input":
+			{
+				"height": 86.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 207.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/Java/JavaC.sublime-build",
+			"position": "0,0,0,0,0,5,85,1811,1041,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 92.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 244.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 27,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

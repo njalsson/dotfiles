@@ -1,0 +1,36 @@
+{
+	"last_version": 1119,
+	"project_dir": "/home/njalsson",
+	"recent":
+	[
+		{
+			"expanded_commits":
+			{
+				"7794fb00e1aff48a23464eb8144072111f034e17": true
+			},
+			"ignore_diff_whitespace": false,
+			"location_bar_visible": false,
+			"path": "/home/njalsson/github/ru",
+			"table_of_contents_selected": false,
+			"table_of_contents_tree_mode": false,
+			"window_height": 600.0,
+			"window_width": 960.0
+		}
+	],
+	"select_repository":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"windows":
+	[
+		{
+			"path": "/home/njalsson/github/ru",
+			"position": "0,0,0,0,0,618,441,1578,1041,1920,1080"
+		}
+	]
+}

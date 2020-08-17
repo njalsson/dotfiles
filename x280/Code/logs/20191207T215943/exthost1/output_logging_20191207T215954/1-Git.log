@@ -1,0 +1,49 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/njalsson/Documents/vln1
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/njalsson/Documents/vln1/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/njalsson/Documents/vln1/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/21/usr/share/code/resources/app/extensions/git/dist/main.js:1:596797)
+	at T.updateTransientWatchers (/snap/code/21/usr/share/code/resources/app/extensions/git/dist/main.js:1:101168)
+	at l.fire (/snap/code/21/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:47:227)
+	at E.updateModelState (/snap/code/21/usr/share/code/resources/app/extensions/git/dist/main.js:1:120038)
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :design/happypath.txt
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :src/main_test_án_UI.py
+> git show :src/main.py
+> git show :src/test.py
+> git show :src/LogicLayer/mainlogic.py
+> git show :src/LogicLayer/logic_test.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/njalsson/Documents/vln1/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/njalsson/Documents/vln1/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/21/usr/share/code/resources/app/extensions/git/dist/main.js:1:596797)
+	at T.updateTransientWatchers (/snap/code/21/usr/share/code/resources/app/extensions/git/dist/main.js:1:101168)
+	at l.fire (/snap/code/21/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:47:227)
+	at E.updateModelState (/snap/code/21/usr/share/code/resources/app/extensions/git/dist/main.js:1:120038)
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :src/LogicLayer/logic_test.py

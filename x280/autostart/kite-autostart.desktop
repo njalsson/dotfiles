@@ -1,0 +1,8 @@
+[Desktop Entry]
+NoDisplay=true
+Type=Application
+Version=2.20200804.0
+Name=Kite
+Comment=Kite - ML powered code completions
+Exec=/home/njalsson/.local/share/kite/kited --system-boot
+Hidden=false

@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/Materialize/schemes/Material Oceanic Next.tmTheme",
+	"font_size": 23,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Material Oceanic Next.sublime-theme"
+}

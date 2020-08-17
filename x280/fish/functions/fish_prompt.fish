@@ -1,0 +1,1 @@
+/home/njalsson/.local/share/omf/themes/fox/fish_prompt.fish

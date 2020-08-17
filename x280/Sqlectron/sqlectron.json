@@ -1,0 +1,17 @@
+{
+  "servers": [
+    {
+      "id": "c59bfedf-7888-496b-9564-e64ec6b4a571",
+      "name": "postgres",
+      "client": "postgresql",
+      "ssl": false,
+      "host": "localhost",
+      "port": 5432,
+      "socketPath": null,
+      "user": "njalsson",
+      "password": "0a439e3d71f4e073",
+      "schema": null,
+      "encrypted": true
+    }
+  ]
+}
